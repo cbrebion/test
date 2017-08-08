@@ -1,5 +1,6 @@
-Chacun peut modifier ce fichier
+﻿Chacun peut modifier ce fichier
 Fichier modifi�
 Guillaume a aussi modifi� le fichier :)
 
 Manon aussi ! 
+Remodif en master après apparition du develop
